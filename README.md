@@ -1,2 +1,4 @@
 # 2026-02-2023074446-IC7602
-Repositorio para trabajos individuales del curso de Redes.
+Repositorio para trabajos individuales del curso de Redes-IC7602.
+
+Estudiante: Sebastián Rodríguez Sánchez
